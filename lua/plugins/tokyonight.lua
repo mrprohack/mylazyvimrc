@@ -1,3 +1,4 @@
+---@diagnostic disable: missing-fields
 return {
   "folke/tokyonight.nvim",
   config = function()
